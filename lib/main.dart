@@ -120,7 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       children: <Widget>[
                         const CircleAvatar(
                           backgroundImage: NetworkImage(
-                              'https://siakadcloud.sttbandung.ac.id/uploads/sttbandung/fotouser/thumb/101809.jpg?a41a7d'),
+                              'https://siakadcloud.sttbandung.ac.id/uploads/sttbandung/fotouser/thumb/101809.jpg?32444e'),
                           maxRadius: 30,
                           backgroundColor: Colors.blue,
                         ),
